@@ -1,0 +1,12 @@
+.nav {
+    background-color: #007ACB;
+    height: 3rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.nav h1 {
+    color: green;
+}
